@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Extended+Text&display=swap');
+
+body {
+    /* font-family: 'Bungee Outline', cursive; */
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    font-size: 4rem;
+}
+
+#timer {
+    font-family: 'Libre Barcode 39 Extended Text', cursive;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    font-size: 4rem;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
